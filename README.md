@@ -2,7 +2,7 @@
 
 Program analyzes a dataset of the global average sea level change since 1880. Data will be used to predict the sea level change through year 2050.
 
-UCompleted tasks:
+Completed tasks:
 
 - Use Pandas to import the data from `epa-sea-level.csv`.
 - Use matplotlib to create a scatter plot using the `Year` column as the x-axis and the `CSIRO Adjusted Sea Level` column as the y-axix.
